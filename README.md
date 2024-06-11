@@ -5,7 +5,7 @@
 ## Usage
 •Clone this repo:
 ```bash
-https://github.com/AthulNoobie/pc-destroyer.git
+git clone https://github.com/AthulNoobie/pc-destroyer.git
 ```
 •Then run this command:
 ```bash
