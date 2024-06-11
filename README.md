@@ -2,7 +2,8 @@
 ### Use it at your own risk. I am not responsible for any damage.
 
 
-## Usage
+# Usage
+## For Linux:
 •Clone this repo:
 ```bash
 git clone https://github.com/AthulNoobie/pc-destroyer.git
@@ -11,4 +12,6 @@ git clone https://github.com/AthulNoobie/pc-destroyer.git
 ```bash
 python destroyer.py
 ```
+## For Windows:
+##### •Download and run the "destroyer.exe" file.
 #### Check my other repos for useful stuffs
