@@ -1,5 +1,5 @@
 ### Simple python code to destroy windows and Linux PC by deleting it's file system.
-### Use it at your own risk. I am not responsible for any damages
+### Use it at your own risk. I am not responsible for any damage.
 
 
 ## Usage
