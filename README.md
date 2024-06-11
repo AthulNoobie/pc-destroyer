@@ -3,8 +3,11 @@
 
 
 ## Usage
-•Clone this repo 
-•Run this command in terminal:
+•Clone this repo:
+```bash
+https://github.com/AthulNoobie/pc-destroyer.git
+```
+•Then run this command:
 ```bash
 python destroyer.py
 ```
