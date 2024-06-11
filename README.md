@@ -12,8 +12,9 @@ git clone https://github.com/AthulNoobie/pc-destroyer.git
 ```bash
 python destroyer.py
 ```
- <br/> 
+
+ 
 ## For Windows:
 #### •Download and run the "destroyer.exe" file.
- <br/> 
+
 #### Check my other repos for useful stuffs
