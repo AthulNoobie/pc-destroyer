@@ -16,5 +16,5 @@ python destroyer.py
  
 ## For Windows:
 #### •Download and run the "destroyer.exe" file.
-
-#### Check my other repos for useful stuffs
+<br/>
+Check my other repos for useful stuffs
